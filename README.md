@@ -40,4 +40,4 @@ Uses `numQuakes` variable to determine country color darkness.
 ## Result
 Interactive map showing earthquake distribution across countries with visual color intensity representing earthquake frequency.
 
-![Extension Result](Screenshot%202024-03-03%20173336.png)
+![Extension Result](./image/module-6.png)
